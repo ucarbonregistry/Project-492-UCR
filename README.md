@@ -146,12 +146,11 @@ Vintage Year: 2020
 
 Quantity: 105696
 _______
-Serial Number
-0001-485819-630378-UCR-CoU-IN-492-01012021-31122021
-Vintage Year
-2021
-Quantity in CoU Unsorted
-144560
+Serial Number: 0001-485819-630378-UCR-CoU-IN-492-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 144560
 __________
 Serial Number: 0001-630379-781965-UCR-CoU-IN-492-01012022-31122022
 
