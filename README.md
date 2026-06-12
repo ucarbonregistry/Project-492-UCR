@@ -116,3 +116,58 @@ approach—managing solid waste and harnessing solar power—demonstrates a comp
 carbon footprints and contribute to India's renewable energy targets. The NWMPL plant has recently installed solar
 panelling which reduces the dependence on energy produced by fossil fuel. 
 ___________________
+ISSUANCE DATE: 12/06/2026
+
+QTY: 1099221
+
+MP-01: 15/02/2017-31/12/2024
+____________
+Serial Number: 0001-000001-199785-UCR-CoU-IN-492-15022017-31122017
+
+Vintage Year: 2017
+
+Quantity: 199785
+______________
+Serial Number: 0001-199786-282208-UCR-CoU-IN-492-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 82423
+_____________
+Serial Number: 0001-282209-380122-UCR-CoU-IN-492-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 97914
+_____________
+Serial Number: 0001-380123-485818-UCR-CoU-IN-492-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 105696
+_______
+Serial Number
+0001-485819-630378-UCR-CoU-IN-492-01012021-31122021
+Vintage Year
+2021
+Quantity in CoU Unsorted
+144560
+__________
+Serial Number: 0001-630379-781965-UCR-CoU-IN-492-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 151587
+___________
+Serial Number: 0001-781966-964765-UCR-CoU-IN-492-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 182800
+___________
+Serial Number: 0001-964766-1099222-UCR-CoU-IN-492-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 134457
+___________
